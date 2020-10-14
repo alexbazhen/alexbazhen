@@ -1,0 +1,48 @@
+/* Обнуление стилей от библиотеки Bootstrap */
+@import 'libs/bootstrap-reboot.min';
+/* Шрифт Poppins из Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+/* Подключение переменных и миксинов */
+@import 'base/variables';
+@import 'base/mixins';
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.divider {
+    display: block;
+    width: 60px;
+    height: 3px;
+    background-color: $main-color;
+    margin: 25px auto 0;
+}
+
+
+/* Подключение 1 секции */
+@import 'blocks/promo';
+@import 'blocks/title';
+@import 'blocks/button';
+@import 'blocks/sidepanel';
+@import 'blocks/menu';
+/* Подключение 2 секции */
+@import 'blocks/about';
+/* Подключение 3 секции */
+@import 'blocks/resume';
+/* Подключение 4 секции */
+@import 'blocks/skills';
+/* Подключение 5 секции */
+@import 'blocks/portfolio';
+/* Подключение 6 секции */
+@import 'blocks/price';
+/* Подключение 7 секции */
+@import 'blocks/contacts';
+/* Подключение адаптивных стилей */
+@import 'blocks/media';

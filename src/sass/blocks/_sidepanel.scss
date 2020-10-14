@@ -1,0 +1,59 @@
+.sidepanel {
+    position: fixed;
+    top: 225px;
+    left: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 375px;
+    z-index: 3;
+    &__divider {
+        height: 70px;
+        width: 2px;
+        background-color: #212121;
+    }
+    &__text {
+        height: 150px;
+        width: 25px;
+        span {
+            display: block;
+            transform: rotate(-90deg) translate(-30%, -265%);
+            width: 150px;
+        }
+    }
+    &__link {
+        transition: .3s all;
+        &:hover {
+            transform: scale(1.5);
+        }
+        &_github {
+            &:hover {
+                svg path {
+                    fill: #171515;
+                }    
+            }            
+        }
+        &_vk {
+            &:hover {
+                svg path {
+                    fill: #2787f5;
+                }    
+            }            
+        }
+        &_instagram {
+            &:hover {
+                svg path {
+                    fill: #c13584;
+                }    
+            }            
+        }
+        &_whatsapp {
+            &:hover {
+                svg path {
+                    fill: #25d366;
+                }    
+            }            
+        }
+    }
+}
