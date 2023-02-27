@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Alexander Bazhenov
 I am glad to welcome you to my GitHub page!  
 My name is Bazhenov Alexander or **@alexbazhen**. Now I am a **Junior Frontend Developer**.  
-I've been a Web Developer for 4 years, including 3 years of commercial development. Basically, I develop turnkey websites 
+I've been a Web Developer for 5 years, including 4 years of commercial development. Basically, I develop turnkey websites 
 (including the development of technical specifications, UX, UI, site layout and landing layout on CMS).   
 My goal is to create user-oriented software by creating applications with a user-friendly and intuitive user interface. 
 I also understand the importance of creating easily readable and easily maintained source code. 
@@ -9,7 +9,7 @@ I am constantly striving to learn new technologies and looking for ways to impro
 ## 📞 Contact Me
 | Method   | Find me as           | Link   |
 | -------- | -------------------- | :----: |
-| E-Mail   | alexbazhen@yandex.ru | [Send a message](mailto:alexbazhen@yandex.ru "To alexbazhen@yandex.ru") |
+| E-Mail   | alexbazhen.dev@gmail.com | [Send a message](mailto:alexbazhen.dev@gmail.com "To alexbazhen.dev@gmail.com") |
 | Telegram | Alexbazhen           | [Contact in Telegram](https://t.me/Alexbazhen "Nickname on Telegram - Alexbazhen") |
 | Discord  | alexbazhen#5328      | [Contact in Discord](https://discordapp.com/users/275351208472870912/ "Nickname on Discord - alexbazhen#5328") |
 ## 🛠 My Technical Skills
@@ -19,12 +19,12 @@ I am constantly striving to learn new technologies and looking for ways to impro
 | CSS                 | ⭐️⭐️⭐️⭐️⭐️ |
 | SCSS, SASS          | ⭐️⭐️⭐️⭐️   |
 | BEM                 | ⭐️⭐️⭐️⭐️   |
-| JavaScript          | ⭐️⭐️⭐️      |
+| JavaScript          | ⭐️⭐️⭐️⭐️   |
 | Gulp, Webpack       | ⭐️⭐️⭐️⭐️   |
 | Git                 | ⭐️⭐️⭐️⭐️   |
+| Vue                 | ⭐️⭐️        |
 | NodeJS              | ⭐️⭐️        |
-> I am currently actively studying JavaScript in courses from RS School.  
-> When I finish learning JS, I will start learning one of the frameworks based on JavaScript, for example React or Vue.
+> I am currently actively studying VueJS + Nuxt.
 ## 📒 Education
 The basis of my knowledge is self-study, however, to consolidate the material, 
 I take various courses in web development, as well as regularly study MDN, LearnJS and expert articles on various resources.  
